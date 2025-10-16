@@ -1,0 +1,9 @@
+kagglehub
+pandas
+notebook
+ipykernel
+
+# Notes:
+# - `kagglehub` is used in `main.py` and `main.ipynb` to download datasets.
+# - `pandas` is included because the notebook mentions it will be used to load the data.
+# - `notebook` and `ipykernel` are useful if you run the included Jupyter notebook.
